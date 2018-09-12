@@ -23,3 +23,7 @@ cache.get('a');
 ```js
 cache.clear();
 ```
+## Console
+```js
+cache.thanks();
+```

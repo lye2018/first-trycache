@@ -10,6 +10,9 @@ class FastCache{
 	}
 	clear(){
 		this.list={}
-	}
+    }
+    thanks(){
+        console.log('everything will be ok!');
+    }
 }
 window.FastCache = FastCache

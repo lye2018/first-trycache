@@ -6,7 +6,7 @@
 
 ## 安装下载
 
-- 下载地址 
+- 下载地址 https://github.com/lye2018/first-trycache/releases
 
 ## 快速使用
 

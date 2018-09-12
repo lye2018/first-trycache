@@ -1,6 +1,6 @@
 {
   "name": "first-trycache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "缓存工具，第一次尝试",
   "main": "index.js",
   "scripts": {
